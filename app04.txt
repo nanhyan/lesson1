@@ -1,0 +1,6 @@
+merge는 옵션이 여러개 있다.
+
+1. 각 브랜치에서 신규 커밋이 있으면 3-way merge 머지
+2. 신규 브렌치에서만 커밋이 있고 main에서 합쳐주면 fast-forwarmerge
+3. rebase 브렌치의 커밋을 변경해서 fast-forwarmerge
+4. squash and merge
